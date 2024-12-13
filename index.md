@@ -11,3 +11,8 @@ Non-header text for comparison (I was wondering whether the normal text is any l
 ``` python
 print("Hello, world!")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+
